@@ -1,2 +1,2 @@
 CAPITAL LETTERS
-lower case
+UPPER CASE
